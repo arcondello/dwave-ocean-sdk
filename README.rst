@@ -1,3 +1,5 @@
+.. class:: center
+
 .. image:: docs/_static/Ocean_SDK_Banner.png
 
 .. image:: https://img.shields.io/pypi/v/dwave-ocean-sdk.svg
